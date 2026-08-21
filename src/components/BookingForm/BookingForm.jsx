@@ -216,7 +216,7 @@ export default function BookingForm() {
       {/* Submit Button */}
       <button
         type="submit"
-        className="group relative w-full bg-gray-800 text-white py-4 rounded-xl font-bold hover:bg-gray-700 transition-all shadow-md hover:shadow-xl overflow-hidden"
+        className="group relative w-full bg-gray-800 text-white py-4 rounded-xl font-bold hover:bg-gray-700 transition-all shadow-md hover:shadow-xl overflow-hidden cursor-pointer"
       >
         <span className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity"></span>
 
